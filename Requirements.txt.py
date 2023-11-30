@@ -1,0 +1,9 @@
+numpy
+pandas
+torch
+torchvision
+Pillow
+scikit-image
+scikit-learn
+nltk
+gensim
